@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+_targets/
+output/
+intermediate_data/
+BPcell_matrices/
+older_workflow/
